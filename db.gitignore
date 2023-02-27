@@ -1,2 +1,2 @@
-#ignore all db files
-*.db
+#ignore all data files
+Data/
