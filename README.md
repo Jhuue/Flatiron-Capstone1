@@ -19,5 +19,5 @@
 # Conclusion
 
 # Appendix
-[Final Presentation]('Final Presentation.pptx')
-[Final Notebook]('Final Notebook.pptx')
+[Final Presentation](https://github.com/Jhuue/Flatiron-Capstone1/blob/main/Final%20Presentation.pptx)
+[Final Notebook](https://github.com/Jhuue/Flatiron-Capstone1/blob/main/Final%20Notebook.ipynb)
