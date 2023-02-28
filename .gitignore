@@ -1,2 +1,2 @@
-#ignore all data files
+#ignore all files in data folder
 Data/*
