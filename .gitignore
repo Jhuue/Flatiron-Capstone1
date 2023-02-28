@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-#ignore all data files
-=======
-#ignore all db files
->>>>>>> upstream/Justen
-Data/*.db
+#ignore all files in data folder
+Data/*
