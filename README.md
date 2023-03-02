@@ -30,11 +30,17 @@ This is due to the database's tracking of genre, movie name, overall rating, and
 
 ## Visualizations
 
+### Income by Rating and Genre
 ![Income by Rating and Genre](https://github.com/Jhuue/Flatiron-Capstone1/blob/main/Visualizations/heatmap.png)
+This heatmap indicates the impact Genre and Rating has on Income. A general visible trend is that some genre's income are more impacted by rating, while some are consistent regardless of rating.
 
+### Income by Budget
 ![Income by Budget](https://github.com/Jhuue/Flatiron-Capstone1/blob/main/Visualizations/scatterplot.png)
+This scatter plot displays the relationship between Income and Budget. A general visible trend is how increasing the films budget generally increases income and popularity.
 
+### Ratings by Top Directors
 ![Ratings by Top Directors](https://github.com/Jhuue/Flatiron-Capstone1/blob/main/Visualizations/bargraph.png)
+This bar chart correlates the certain directors with higher ratings. A general visible trend of this chart shows that certain directors tend to average a higher rating on their films.
 
 # Statistical Communication
 
