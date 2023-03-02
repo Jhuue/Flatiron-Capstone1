@@ -80,11 +80,13 @@ Additionally, we can see that as production budget increases, so does income. Wi
 
 Lastly, there are 5 directors that we recommend Computing Vision pursues for their films in order to maximize their potential ratings for their films. These directors are:
 
-1. Nm5083382
-2. Nm6179119
-3. Nm6179118
-4. Nm6179115
-5. Nm0331653
+1. Corey Lubowich
+2. Dennis Korbylo
+3. Erin Korbylo
+4. Sylvia Broeckx
+5. Lisa Gossels
+
+
 
 # Conclusion
 
