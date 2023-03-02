@@ -43,7 +43,7 @@ This heatmap indicates the impact Genre and Rating has on Income. A general visi
 This scatter plot displays the relationship between Income and Budget. A general visible trend is how increasing the films budget generally increases income and popularity. 
 
 ### Ratings by Top Directors
-![Ratings by Top Directors](https://github.com/Jhuue/Flatiron-Capstone1/blob/main/Visualizations/BarGraphDirectors.png)
+![Ratings by Top Directors](https://github.com/Jhuue/Flatiron-Capstone1/blob/main/Visualizations/BargraphDirectors.png)
 
 This bar chart correlates the certain directors with higher ratings. A general visible trend of this chart shows that certain directors tend to average a higher rating on their films. It is important to note that directors that worked on less than 10 movies were omitted as their average ratings could be skewed by a low volume of data.
 
