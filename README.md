@@ -30,11 +30,11 @@ This is due to the database's tracking of genre, movie name, overall rating, and
 
 ## Visualizations
 
-[Income by Rating and Genre](https://github.com/Jhuue/Flatiron-Capstone1/blob/main/Visualizations/heatmap.png)
+![Income by Rating and Genre](https://github.com/Jhuue/Flatiron-Capstone1/blob/main/Visualizations/heatmap.png)
 
-[Income by Budget](https://github.com/Jhuue/Flatiron-Capstone1/blob/main/Visualizations/scatterplot.png)
+![Income by Budget](https://github.com/Jhuue/Flatiron-Capstone1/blob/main/Visualizations/scatterplot.png)
 
-[Ratings by Top Directors](https://github.com/Jhuue/Flatiron-Capstone1/blob/main/Visualizations/bargraph.png)
+![Ratings by Top Directors](https://github.com/Jhuue/Flatiron-Capstone1/blob/main/Visualizations/bargraph.png)
 
 # Statistical Communication
 
